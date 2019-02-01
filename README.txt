@@ -1,5 +1,3 @@
-For your assignment, you should modify this template to include your own name, contact information, images, and other relevant information. You should be sure to replace all placeholder content in the index.html file with information specific to your work. The following info is about the theme.
-
 Identity by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
